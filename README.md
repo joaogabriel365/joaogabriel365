@@ -1,16 +1,18 @@
-## Hi there 👋
+## 🤙 E aí, beleza? Eu sou o João Gabriel
 
-<!--
-**joaogabriel365/joaogabriel365** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌱 Estudando Engenharia de Computação na FIAP (3º semestre)
 
-Here are some ideas to get you started:
+💻 Interesses em desenvolvimento front-end e back-end
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌐 Conhecimento intermediário em CSS, Java, JavaScript, HTML, Python e C++
+
+🗄️ Conhecimento prático em banco de dados e organização de dados estruturados
+
+🛠️ Experiência com desenvolvimento de projetos acadêmicos e pessoais
+
+🌍 Inglês avançado
+
+🚀 Aberto a oportunidades de estágio
+
+
+
