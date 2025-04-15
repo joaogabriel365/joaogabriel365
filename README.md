@@ -1,4 +1,4 @@
-![Header](./your-header-image-name.png)
+![Header](./banner-github.png)
 
 ## 🤙 E aí, beleza? Eu sou o João Gabriel
 
