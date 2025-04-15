@@ -25,7 +25,14 @@
   <img align="center" alt="Rafa-JAVA" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg">
 </div>
 
+##
 
+<div> 
+  <a href="https://www.instagram.com/jaogabriell__/" target="_blank">
+    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+  <a href="www.linkedin.com/in/joão-gabriel-de-bortoli-ribeiro" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+</div>
 
             
         
