@@ -1,5 +1,3 @@
-![Header](./github-header-image.png)
-
 ## 🤙 E aí, beleza? Eu sou o João Gabriel
 
 🌱 Estudando Engenharia de Computação na FIAP (3º semestre)
