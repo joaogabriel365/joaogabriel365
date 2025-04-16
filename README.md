@@ -1,6 +1,5 @@
 ![Header](./github-image.png)
 
-
 ## 🤙 E aí, beleza? Eu sou o João Gabriel
 
 🌱 Estudando Engenharia de Computação na FIAP (3º semestre)
@@ -38,6 +37,9 @@
     <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
   <a href="www.linkedin.com/in/joão-gabriel-de-bortoli-ribeiro" target="_blank">
    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+</div>
+<div align="right">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=joaogabriel365.joaogabriel365&"  />
 </div>
 
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/joaogabriel365/joaogabriel365/output/github-contribution-grid-snake-dark.svg">
