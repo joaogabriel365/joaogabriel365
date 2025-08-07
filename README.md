@@ -14,7 +14,7 @@
 
 🌍 Inglês avançado
 
-🚀 Aberto a oportunidades de estágio
+🚀 Estagiário infraestrutura (TI) na FIAP
 
 <br>
 <div align="left">
