@@ -2,7 +2,7 @@
 
 ## 🤙 E aí, beleza? Eu sou o João Gabriel
 
-🌱 Estudando Engenharia de Computação na FIAP (4º semestre)
+🌱 Estudando Engenharia de Computação na FIAP (5º semestre)
 
 💻 Interesses em desenvolvimento front-end e back-end
 
